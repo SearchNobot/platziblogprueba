@@ -3,3 +3,7 @@ body{
     font-weight: 300;
     background-color: azure;
 }
+
+header{
+    background-color: bisque;
+}
