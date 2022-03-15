@@ -1,12 +1,12 @@
 body{
     font-size: large;
     font-weight: 300;
-    background-color: azure;
+    background-color: rgb(63, 151, 151);
     height: 1000px;
 }
 
 header{
-    background-color: rgb(194, 111, 9);
-    width: 100%;
+    background-color: rgb(173, 13, 160);
+    width: 80%;
     background-image: url("https://duckduckgo.com/assets/logo_homepage.alt.v108.svg");
 }
