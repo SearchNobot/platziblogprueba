@@ -2,8 +2,11 @@ body{
     font-size: large;
     font-weight: 300;
     background-color: azure;
+    height: 1000px;
 }
 
 header{
-    background-color: bisque;
+    background-color: rgb(194, 111, 9);
+    width: 100%;
+    background-image: url("https://duckduckgo.com/assets/logo_homepage.alt.v108.svg");
 }
